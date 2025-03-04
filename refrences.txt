@@ -1,0 +1,19 @@
+git clone (use once)
+git add 
+git commit -m "msg"
+git push -u origin / git push depending on version 
+============================
+git pull 
+
+short cut 
+git commit -a -m "msg"
+git push 
+================
+git fectch(fetch to directory but dosent show on local file until merge)
+git merge origin 
+
+===============
+
+git branch -m main
+git add remote origin (link)
+git push -u origin main
