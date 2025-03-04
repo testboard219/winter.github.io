@@ -17,3 +17,9 @@ git merge origin
 git branch -m main
 git add remote origin (link)
 git push -u origin main
+
+==================
+forcefully push (-f) it ignores the rules and do a forcefull push
+git push -f origin main
+
+
